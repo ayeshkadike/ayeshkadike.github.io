@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Ayesh Kadike",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Josefin Sans",
+        body: "Open Sans",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
@@ -41,15 +41,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#202020", // Primary background color (a deep black/gray shade for dark mode)
+          lightgray: "rgba(100, 100, 100, 0.3)", // Slightly lighter gray for cards or containers
+          gray: "#3B3B3B", // Medium gray for borders or secondary elements
+          darkgray: "#B8B8B8", // Light gray for text or subtle accents
+          dark: "rgba(255, 255, 255, 0.85)", // Lightest color, for contrast or highlighted areas
+          secondary: "#748BA8", // Accent color for links, buttons, or important elements
+          tertiary: "#D8C3A5", // Secondary accent color, complements the primary
+          highlight: "rgba(100, 100, 100, 0.3)", // Subtle highlights (e.g., for hover effects)
+          textHighlight: "#FFC30088", // Bright gold for highlighted text
         },
       },
     },
