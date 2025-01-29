@@ -1,18 +1,21 @@
 ---
+hideTags: true
+hideDate: true
+hideReadTime: true
 published: 2024-01-01
 title: "Hi there, I'm Ayesh 👋"
 ---
 
-I'm a 19 year old Computer Engineering student @ the University of Waterloo, with a passion for building innovative solutions that blend creativity and functionality interested in AI, ML and solving petty real world problems. My journey has been fueled by curiosity and a relentless drive to learn, solve problems, and create meaningful impact.
+I'm a 19 year old Computer Engineering student @ the University of Waterloo, with a passion for building innovative solutions that blend creativity and functionality interested in AI & ML. My journey has been fueled by curiosity and a relentless drive to learn, solve problems, and create a meaningful impact.
 
-#### What I Do
+#### What I'm Interested In
 
 - **Software Development**: I enjoy creating tools and systems that make life simpler and more efficient.
     
 - **Artificial Intelligence & Machine Learning**: Exploring the possibilities of AI and ML to solve real-world challenges excites me the most.
-    
-- **Problem Solver**: I thrive on tackling complex challenges and finding innovative solutions.
-    
+
+- **Blockchain**: Venturing into the world of blockchain technology and its potential to revolutionize industries.
+        
 
 #### Current Focus
 
@@ -20,7 +23,7 @@ I’m deeply involved in advancing my knowledge in **Artificial Intelligence** a
 
 #### Beyond Code
 
-Outside the world of software, some of my #non-code-interests include **video editing**, **photography**, and **flight simulation**. These hobbies allow me to express creativity and explore different perspectives.
+Outside the world of software, some of my non-code-interests include **video editing**, **photography**, and **flight simulation**. These hobbies allow me to express creativity and explore different perspectives.
 
 #### Let's Connect
 
