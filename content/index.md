@@ -1,25 +1,18 @@
 ---
-hideTags: true
-hideDate: true
-hideReadTime: true
-published: 2024-01-01
-title: "Hi there, I'm Ayesh 👋"
+title: " "
 ---
 
-I'm a 19 year old Computer Engineering student @ the University of Waterloo, with a passion for building innovative solutions that blend creativity and functionality interested in AI & ML. My journey has been fueled by curiosity and a relentless drive to learn, solve problems, and create a meaningful impact.
+# Hi there, I'm Ayesh 👋
 
-#### What I'm Interested In
-
-- **Software Development**: I enjoy creating tools and systems that make life simpler and more efficient.
-    
-- **Artificial Intelligence & Machine Learning**: Exploring the possibilities of AI and ML to solve real-world challenges excites me the most.
-
-- **Blockchain**: Venturing into the world of blockchain technology and its potential to revolutionize industries.
+I'm a 19 year old Computer Engineering student @ the University of Waterloo, with a passion for building innovative & creative solutions interested in AI & ML.
         
+#### Currently
 
-#### Current Focus
+I'm exploring **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Blockchain**, focusing on neural networks, natural language processing, and large language models. Currently, I'm learning **TensorFlow** and **YOLO**, exploring their applications in image recognition, object detection, and predictive analytics. Additionally, I'm exploring how **Blockchain** can revolutionize industries by enhancing security, decentralization, and efficiency.
 
-I’m deeply involved in advancing my knowledge in **Artificial Intelligence** and **Machine Learning**, including experimenting with neural networks, natural language processing, and large language models. I’m currently learning libraries and frameworks like **TensorFlow** and **YOLO**, exploring their applications in image recognition, object detection, and predictive analytics. I’m also exploring the integration of AI systems into real-world applications to drive efficiency and innovation.
+#### In The Past
+
+I've worked @ **Searidge Technologies**, where I developed an **AI Retrieval-Augmented Generation (RAG)** tool to streamline consumer-business  **requirements management** and **proposal generation**. This tool enhanced efficiency by improving information retrieval and automating content generation, significantly reducing manual effort.
 
 #### Beyond Code
 
@@ -27,7 +20,7 @@ Outside the world of software, some of my non-code-interests include **video edi
 
 #### Let's Connect
 
-Feel free to explore my projects or reach out for collaborations, ideas, or just a friendly chat. Together, we can create something amazing!
+Feel free to explore my projects or reach out for collaborations!
 
 
 

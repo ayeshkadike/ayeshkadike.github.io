@@ -29,24 +29,25 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
+      // Display date if available and not on the index page
+      if (fileData.dates && fileData.slug !== "index") {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 
-      // Display reading time if enabled
-      if (options.showReadingTime) {
-        const { minutes, words: _words } = readingTime(text)
+      // Display reading time if enabled and not on the index page
+      if (options.showReadingTime && fileData.slug !== "index") {
+        const { minutes } = readingTime(text)
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
         segments.push(<span>{displayedTime}</span>)
       }
 
-      return (
+      return segments.length > 0 ? (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
         </p>
-      )
+      ) : null
     } else {
       return null
     }
