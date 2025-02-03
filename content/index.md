@@ -4,7 +4,7 @@ title: " "
 
 # Hi there, I'm Ayesh 👋
 
-I'm a 19 year old Computer Engineering student @ the University of Waterloo, with a passion for building innovative & creative solutions interested in AI & ML.
+I'm a 19 year old Computer Engineering student @ the University of Waterloo, with a passion for building innovative & creative solutions, interested in AI & ML.
         
 #### Currently
 
@@ -16,7 +16,8 @@ I've worked @ **Searidge Technologies**, where I developed an **AI Retrieval-Aug
 
 #### Beyond Code
 
-Outside the world of software, some of my non-code-interests include **video editing**, **photography**, and **flight simulation**. These hobbies allow me to express creativity and explore different perspectives.
+Outside the world of software, some of my non-code interests include **video editing**, **photography**, and [**Flight Simulation**](Random-Notes/Flight-Simulation-✈%EF%B8%8E).
+
 
 #### Let's Connect
 
