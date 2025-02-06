@@ -8,4 +8,4 @@ Is a style of cartoon like **animation** that originated in **Japan** that is us
 
 - **Jujutsu Kaisen** 
 - **Attack On Titan**
-- **Demon Slayer**.
+- **Vinland Saga**.
