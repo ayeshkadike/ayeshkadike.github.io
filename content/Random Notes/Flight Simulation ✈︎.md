@@ -18,7 +18,6 @@ Each sim session feels like an exciting challenge, where I'm pushed to explore n
 - **San Francisco**
 - **Singapore**
 - **Hong Kong**
-- **Bangkok**
 - **Beijing**
 - **Seoul**
 - **Istanbul**
