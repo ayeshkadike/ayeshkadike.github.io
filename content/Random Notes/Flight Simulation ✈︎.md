@@ -22,7 +22,6 @@ Each sim session feels like an exciting challenge, where I'm pushed to explore n
 - **Seoul**
 - **Istanbul**
 - **Shanghai**
-- **Moscow**
 - **Johannesburg**
 - **Maldives**
 
